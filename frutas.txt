@@ -1,3 +1,5 @@
 Manzana
 Pera
 Mango
+Mandarina
+Guayaba
